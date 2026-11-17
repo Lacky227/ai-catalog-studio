@@ -70,3 +70,4 @@ python -m unittest discover -s tests -v
 4. Pull Request після merge та успішний workflow (якщо не поміщаються разом, зроби додатковий скріншот Actions).
 # ai-catalog-studio
 # ai-catalog-studio
+# ai-catalog-studio
