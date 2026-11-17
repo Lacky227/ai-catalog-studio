@@ -69,3 +69,4 @@ python -m unittest discover -s tests -v
 3. Публічна вітрина: каталог та відкрита картка на GitHub Pages.
 4. Pull Request після merge та успішний workflow (якщо не поміщаються разом, зроби додатковий скріншот Actions).
 # ai-catalog-studio
+# ai-catalog-studio
